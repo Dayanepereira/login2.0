@@ -36,7 +36,7 @@ const Login = () => {
 
           <div className="recal-forget">
             <label>
-              <input type="checkbox" />
+              <input type="checkbox" placeholder="checkbox" />
               Lembrar de mim
             </label>
             <a href="#">Esqueceu a senha?</a>
